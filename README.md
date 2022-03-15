@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vickelajnen
 - 👀 I’m interested in data analytics & science
-- 🌱 I’m currently learning Python, SQL, CSS, Pandas, Supervised & unsupervised ML
+- 🌱 I’m currently working in Python, SQL, CSS, Pandas, Supervised & unsupervised ML
 - 💞️ I’m looking for work in the data field
 - 📫 How to reach me: victor.nicolausson@gmail.com or www.linkedin.com/in/victor-nicolausson
 
